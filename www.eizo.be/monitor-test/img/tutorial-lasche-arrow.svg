@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="34px" viewBox="0 0 18 34" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_accordion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Reinlayout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-tutorial-01" transform="translate(-331.000000, -366.000000)" fill="#3D6BED">
+            <g id="icon_accordion" transform="translate(340.500000, 383.000000) rotate(-270.000000) translate(-340.500000, -383.000000) translate(324.000000, 374.000000)">
+                <path d="M21.7761602,0.569493942 C21.4746378,0.26918508 20.9846637,0.26918508 20.6831412,0.569493942 L11.0721121,10.1606082 L1.44223779,0.569493942 C1.1407153,0.26918508 0.650741268,0.26918508 0.349218785,0.569493942 C0.0476963023,0.869802804 0.0476963023,1.3578047 0.349218785,1.65811357 L10.5067574,11.7747684 C10.6575187,11.9249228 10.8459702,12 11.0532669,12 C11.2417185,12 11.4490152,11.9249228 11.5997764,11.7747684 L21.7573151,1.65811357 C22.0776827,1.3578047 22.0776827,0.869802804 21.7761602,0.569493942 Z" id="Shape" transform="translate(11.061538, 6.172131) rotate(-360.000000) translate(-11.061538, -6.172131) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

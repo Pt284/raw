@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="240px" height="15px" viewBox="-1 31 290 15" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="34.5424503%" x2="-2.32088687%" y2="34.5424503%" id="linearGradient-1">
+            <stop stop-color="#C1C1C1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M0.00123184697,38.7151508 C0.00123184697,35.479101 2.63218371,32.9099304 5.85557921,32.9762937 L285.57875,38.7352351 C288.812017,38.8018016 288.802146,38.9099304 285.57875,38.9762937 L5.85557921,44.7352351 C2.62231244,44.8018016 0.00123184697,42.2223134 0.00123184697,38.9963779 L0.00123184697,38.7151508 Z" id="Rectangle" stroke="#CCCCCC" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" transform="translate(144.000616, 38.855766) scale(-1, -1) translate(-144.000616, -38.855766) "></path>
+</svg>
